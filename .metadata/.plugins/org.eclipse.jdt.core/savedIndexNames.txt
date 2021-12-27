@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\humza\Desktop\Discord_Bot_Project\.metadata\.plugins\org.eclipse.jdt.core
+2857147247.index
+1973540852.index
+4196601583.index
