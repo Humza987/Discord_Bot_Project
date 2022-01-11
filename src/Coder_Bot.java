@@ -8,7 +8,7 @@ import net.dv8tion.jda.api.JDA;
 
 public class Coder_Bot {
 	public static void main(String args[]) throws LoginException{
-		JDABuilder jda = JDABuilder.createDefault("OTA2NzAwMzM0NzA4MTc0OTA4.YYccfQ.GLIPt_lmjLZ8vfQglrMwjQTcOQE");
+		JDABuilder jda = JDABuilder.createDefault(""); // Enter personal token here
 		jda.setActivity(Activity.playing("GleemShire"));
 		jda.setStatus(OnlineStatus.ONLINE);
 		jda.addEventListeners(new Commands());
